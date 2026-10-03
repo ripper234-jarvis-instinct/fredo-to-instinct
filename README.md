@@ -29,7 +29,7 @@ Instinct is a personal assistant you talk to in chat, for example on WhatsApp. I
 
 ## Get started
 
-1. **Join Instinct.** Joining is by invite. (TBD: Ron to add the join and invite details here.)
+1. **Join Instinct.** Joining is by invite.
 2. **Install this plugin.** Send your Instinct: "Hey Instinct, please install the following plugin" and the link to this repo.
 3. **Answer its setup questions.** It asks for your language, your Workflowy share links, and your hashtag-to-list mapping (see [install instructions](#install-instructions-for-the-instinct-agent)).
 4. **Start capturing.** Send a note with a hashtag.
