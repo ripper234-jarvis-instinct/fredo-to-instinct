@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hero.svg" alt="Fredo to Instinct" width="720">
+</p>
+
 # From Fredo to Instinct
 
 Install guide for Fredo Community members moving to Instinct. It covers capturing notes and tasks into Workflowy, hashtag routing, and forwarding messages. Everything here is based on what Ron set up and uses himself.
@@ -15,8 +19,11 @@ Install guide for Fredo Community members moving to Instinct. It covers capturin
 7. [Install instructions for the Instinct agent](#install-instructions-for-the-instinct-agent)
 8. [Questions](#questions)
 9. [License and disclaimer](#license-and-disclaimer)
+10. [Trademarks](#trademarks)
 
 ## TL;DR
+
+<img src="assets/fredo-icon.svg" alt="Fredo" width="28" height="28" align="absmiddle"> Fredo &rarr; <img src="assets/instinct-icon.svg" alt="Instinct" width="28" height="28" align="absmiddle"> Instinct
 
 - Join Instinct with an invite.
 - Send your Instinct: "Hey Instinct, please install the following plugin" + the link to this repo.
@@ -113,3 +120,7 @@ Open an Issue in this repo or write in the community.
 Released under the [MIT License](LICENSE).
 
 This guide is provided as is, without warranty of any kind. You use it at your own risk and on your own responsibility. That includes what you give your Instinct access to (such as Workflowy share links with edit permission), what it captures or changes on your behalf, and any resulting loss of data or other damage. The authors and contributors are not liable for any claim or damages arising from its use. Review what you share, and keep backups of anything you care about.
+
+## Trademarks
+
+Fredo and Instinct names, logos and icons belong to their respective owners and are used here only to identify the products. They are not covered by this repository's MIT license. Images were taken from the official websites: fredo.ai and instinct.com.
