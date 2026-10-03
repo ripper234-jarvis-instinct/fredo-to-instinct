@@ -1,14 +1,4 @@
-# מ-Fredo ל-Instinct
-
-מדריך והתקנה לחברי קהילת Fredo שעוברים ל-Instinct, על בסיס מה ש-Ron הגדיר ובדק אצלו בפועל.
-
-> סטטוס: ניסיוני. זה עובד אצל Ron, אבל לכידת הפתקים ל-Workflowy עדיין איטית ולפעמים טועה. אם משהו לא עובד, זה לא אתם.
-
-## בקצרה (לאדם)
-
-
-A guide and install instructions for Fredo Community members moving to Instinct, based on what Ron set up and tested in his own use.
-
+# From Fredo to Instinct
 
 Install guide for Fredo Community members moving to Instinct. It covers capturing notes and tasks into Workflowy, hashtag routing, and forwarding messages. Everything here is based on what Ron set up and uses himself.
 
@@ -24,6 +14,7 @@ Install guide for Fredo Community members moving to Instinct. It covers capturin
 6. [Known limitations](#known-limitations)
 7. [Install instructions for the Instinct agent](#install-instructions-for-the-instinct-agent)
 8. [Questions](#questions)
+9. [License and disclaimer](#license-and-disclaimer)
 
 ## TL;DR
 
@@ -116,3 +107,9 @@ If a user asked you to install this plugin, follow these steps. The rules in the
 ## Questions
 
 Open an Issue in this repo or write in the community.
+
+## License and disclaimer
+
+Released under the [MIT License](LICENSE).
+
+This guide is provided as is, without warranty of any kind. You use it at your own risk and on your own responsibility. That includes what you give your Instinct access to (such as Workflowy share links with edit permission), what it captures or changes on your behalf, and any resulting loss of data or other damage. The authors and contributors are not liable for any claim or damages arising from its use. Review what you share, and keep backups of anything you care about.
