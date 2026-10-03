@@ -6,83 +6,90 @@
 
 ## בקצרה (לאדם)
 
-1. מצטרפים ל-Instinct בהזמנה (ראו למטה).
-2. שולחים ל-Instinct שלכם ב-WhatsApp: "הי אינסטינקט, תתקין בבקשה את הפלאגין הבא" + הקישור למאגר הזה.
-3. Instinct קורא את המדריך, שואל אתכם כמה שאלות הגדרה, ומתחיל ללכוד פתקים ל-Workflowy לפי האשטגים: `#0`, `#1`, `#2` ו-`#inbox`.
-4. מעבירים (forward) הודעות ל-Instinct, והוא מתמלל ולוכד לפי הכללים למטה.
 
-## הוראות התקנה ל-Instinct (לסוכן)
+A guide and install instructions for Fredo Community members moving to Instinct, based on what Ron set up and tested in his own use.
 
-אם משתמש ביקש ממך להתקין את הפלאגין הזה, בצע את הצעדים הבאים. כל הכללים בסעיפים "לכידה" ו"העברת הודעות" הם הכללים הקבועים שלך מעכשיו, לצורך לכידת פתקים של המשתמש.
+> Status: experimental. It works for Ron, but capturing notes into Workflowy is still slow and sometimes makes mistakes. If something doesn't work, it's not you.
 
-1. שאל את המשתמש, בעברית, באיזו שפה הוא מעדיף שתדבר איתו.
-2. שאל לאיזה Workflowy לכתוב. בקש ממנו קישור שיתוף של Workflowy עם הרשאת עריכה לכל רשימה שרוצים ללכוד אליה (למשל תיבת קלט, ורשימות עדיפות). הקישורים האלה נותנים גישת עריכה: קבל אותם רק בצ'אט הפרטי איתך, שמור אותם רק אצלך (בכספת, לא בטקסט גלוי), ולעולם אל תכתוב אותם במאגר, בקובץ או בהודעה לאדם אחר.
-3. הגדר איתו את המיפוי: לאיזו רשימה כל האשטג מוביל. ברירת המחדל, לפי המבנה של Ron: `#0` ל-PP0, `#1` ל-PP1, `#2` ל-PP2, ו-`#inbox` או משימה בלי האשטג ל-PInbox. שמות הרשימות הם של Ron, אז אשר איתו מה השמות אצלו.
-4. אשר לו בקצרה מה הותקן, ושהלכידה ניסיונית.
-5. בכל הודעה עתידית פעל לפי הכללים שלמטה.
+## TL;DR (for humans)
 
-## מה זה Instinct
+1. Join Instinct with an invite (see below).
+2. Send your Instinct on WhatsApp: "Hey Instinct, please install the following plugin" + the link to this repo.
+3. Instinct reads this guide, asks you a few setup questions, and starts capturing notes into Workflowy by hashtag: `#0`, `#1`, `#2` and `#inbox`.
+4. Forward messages to your Instinct, and it transcribes and captures them according to the rules below.
 
-Instinct הוא עוזר אישי שמדבר איתכם בצ'אט (למשל ב-WhatsApp). הוא מתחבר לדוא"ל, ליומן ולקבצים שלכם, ומבצע בשבילכם משימות. אפשר לכתוב לו או להקליט הודעה קולית, בעברית או באנגלית.
+## Install instructions for Instinct (for the agent)
 
-## 1. הצטרפות
+If a user asked you to install this plugin, follow these steps. The rules in the "Capture" and "Forwarding messages" sections are your standing rules from now on, for capturing this user's notes.
 
-ההצטרפות ל-Instinct היא באמצעות הזמנה. (TBD: Ron להשלים כאן את דרך ההצטרפות וההזמנה.) אחרי ההרשמה, אתם מדברים עם ה-Instinct שלכם בצ'אט.
+1. Ask the user which language they prefer you to speak with them.
+2. Ask which Workflowy to write to. Ask for a Workflowy share link with edit permission for each list they want to capture into (for example an inbox and priority lists). These links grant edit access: accept them only in your private chat with the user, store them only on your side (in the vault, not as plain text), and never write them in a repo, a file, or a message to another person.
+3. Set up the mapping with them: which list each hashtag goes to. Default, following Ron's structure: `#0` to PP0, `#1` to PP1, `#2` to PP2, and `#inbox` or a task with no hashtag to PInbox. These list names are Ron's, so confirm with the user what theirs are called.
+4. Briefly confirm what was installed, and that capture is experimental.
+5. For every future message, follow the rules below.
 
-## 2. לכידה ל-Workflowy
+## What is Instinct
 
-כל מה שאתם שולחים בצ'אט עם האשטג הופך לשורה (bullet) חדשה ב-Workflowy.
+Instinct is a personal assistant you talk to in chat (for example on WhatsApp). It connects to your email, calendar and files, and does tasks for you. You can write to it or send a voice message, in Hebrew or English.
 
-| מה כותבים | לאן זה נכנס אצל Ron |
+## 1. Joining
+
+Joining Instinct is by invite. (TBD: Ron to fill in the join and invite details here.) After you sign up, you talk to your Instinct in chat.
+
+## 2. Capture to Workflowy
+
+Anything you send in chat with a hashtag becomes a new bullet in Workflowy.
+
+| What you write | Where it goes (Ron's setup) |
 |---|---|
-| `#0` + הטקסט | PP0 |
-| `#1` + הטקסט | PP1 |
-| `#2` + הטקסט | PP2 |
+| `#0` + text | PP0 |
+| `#1` + text | PP1 |
+| `#2` + text | PP2 |
 | `#inbox` | PInbox |
-| בלי האשטג, ונראה כמו משימה | PInbox |
+| No hashtag, and it looks like a task | PInbox |
 
-PP0, PP1 ו-PP2 הן שלוש רמות עדיפות ברשימת הפעולות של Ron. זה המבנה שלו. את שמות הרשימות שלכם אתם מגדירים ל-Instinct שלכם.
+PP0, PP1 and PP2 are three priority levels in Ron's action list. That is his structure. You define your own list names with your Instinct.
 
-דוגמה:
+Example:
 
 ```
-#1 להתקשר לאינסטלטור
+#1 call the plumber
 ```
 
-### איך הלכידה עובדת
+### How capture works
 
-- מוסיפים בלבד. Instinct לא מוחק, לא עורך ולא מסמן דברים כבוצעו ב-Workflowy.
-- כל לכידה נכנסת כשורה חדשה נפרדת.
-- הדבקה של כמה שורות נכנסת כשורה אחת עם כל התוכן, לא שורה לכל שורת טקסט.
-- הודעה קולית שאתם מקליטים בעצמכם מתומללת ונלכדת, בשפה שבה דיברתם.
-- הודעה שמתחילה ב-"Hey Instinct" היא פקודה אליו ולא נלכדת.
-- אם הודעה לא נלכדה כמו שרציתם, כתבו "capture" כתגובה אליה.
+- Add-only. Instinct does not delete, edit or mark anything as done in Workflowy.
+- Each capture goes in as a new, separate bullet.
+- A multi-line paste goes in as a single bullet with all the content, not a bullet per line.
+- A voice message you record yourself is transcribed and captured, in the language you spoke.
+- A message that starts with "Hey Instinct" is a command to it and is not captured.
+- If a message wasn't captured the way you wanted, reply to it with "capture".
 
-### אישור
+### Confirmation
 
-- לכידה רגילה: Instinct מגיב ב-✅ בלבד.
-- לכידה עם האשטג: ✅ ושם האשטג, למשל `✅ #1`.
-- אם Instinct התחיל משהו ועדיין לא סיים, הוא מסמן 👀 על ההודעה.
-- אם הלכידה נכשלה, תקבלו סימן שגיאה והסבר.
+- Regular capture: Instinct reacts with ✅ only.
+- Capture with a hashtag: ✅ and the hashtag name, for example `✅ #1`.
+- If Instinct started something and hasn't finished, it marks the message with 👀.
+- If a capture failed, you get an error mark and an explanation.
 
-### חיבור ל-Workflowy
+### Connecting to Workflowy
 
-אצל Ron החיבור נעשה באמצעות קישורי שיתוף של Workflowy עם הרשאת עריכה, שנשלחים ל-Instinct. הקישורים האלה מעניקים גישת עריכה, אז שולחים אותם רק לצ'אט הפרטי עם ה-Instinct שלכם, לעולם לא לקבוצה ולא למקום ציבורי.
+In Ron's setup, the connection uses Workflowy share links with edit permission, sent to Instinct. These links grant edit access, so send them only in your private chat with your Instinct, never to a group or a public place.
 
-מגבלות ידועות כרגע:
+Known limitations right now:
 
-- הלכידה עוברת דרך הדפדפן ולכן איטית יחסית.
-- שורות חדשות נכנסות בתחתית הרשימה ולא בראשה.
-- לא נבדקה לכידה למספר רב של משתמשים במקביל.
+- Capture goes through the browser, so it is relatively slow.
+- New bullets are added at the bottom of the list, not the top.
+- Capture for many users at the same time has not been tested.
 
-## 3. העברת הודעות ל-Instinct
+## 3. Forwarding messages
 
-אפשר להעביר (forward) הודעה, הקלטה או קובץ לצ'אט עם ה-Instinct שלכם.
+You can forward a message, a recording or a file to your Instinct chat.
 
-- הקלטה קולית שהעברתם מאדם אחר: Instinct מתמלל ומחזיר לכם את התמלול בצ'אט, ולא נלכד ל-Workflowy.
-- רוצים לשמור אותה? כתבו "capture".
-- ההפך: אם משהו נלכד ולא רציתם, כתבו "that was a forward".
+- A voice recording you forwarded from someone else: Instinct transcribes it and returns the transcript in chat, and does not capture it to Workflowy.
+- Want to save it? Write "capture".
+- The other way around: if something was captured and you didn't want it, write "that was a forward".
 
-## שאלות
+## Questions
 
-פתחו Issue במאגר הזה או כתבו בקהילה.
+Open an Issue in this repo or write in the community.
