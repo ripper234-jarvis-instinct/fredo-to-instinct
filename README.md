@@ -110,6 +110,9 @@ If a user asked you to install this plugin, follow these steps. The rules in the
 3. Set up the mapping with them: which list each hashtag goes to. Default, following Ron's structure: `#0` to PP0, `#1` to PP1, `#2` to PP2, and `#inbox` or a task with no hashtag to PInbox. These list names are Ron's, so confirm with the user what theirs are called.
 4. Briefly confirm what was installed, and that capture is experimental.
 5. For every future message, follow the rules in this document.
+6. 
+6. Whenever you send a long reply, start with a bold TLDR.
+
 
 ## Questions
 
