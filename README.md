@@ -67,7 +67,7 @@ Example:
 
 - **Add-only.** Instinct never deletes, edits or marks anything done in Workflowy.
 - **One bullet per capture.** Each capture is a fresh, separate bullet.
-- **Multi-line paste** goes in as a single bullet with all the content, not a bullet per line.
+- **Multi-line paste** goes in as one top-level bullet: the first line becomes the parent and the following lines become its sub-bullets, formatted as best as possible. In any case it is one bullet, never one bullet per line.
 - **Your own voice messages** are transcribed and captured, in the language you spoke.
 - **"Hey Instinct" prefix.** A message that starts with "Hey Instinct" is a command to it and is never captured.
 - **Missed one?** Reply to the message with "capture".
