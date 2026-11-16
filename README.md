@@ -29,7 +29,7 @@ Install guide for Fredo Community members moving to Instinct. It covers capturin
 - Join Instinct with an invite.
 - Send your Instinct: "Hey Instinct, please install the following plugin" + the link to this repo.
 - Write a note with `#0`, `#1`, `#2` or `#inbox` and it lands in Workflowy as a new bullet.
-- Send a phone number with no text and it only gets a phone-emoji reaction, so you can tap the number to call or message that person.
+- Send a phone number with no text and Instinct asks for the person's name so it can save them as a contact.
 - Forward a message or recording to your Instinct and it transcribes it for you.
 
 ## What is Instinct
@@ -99,7 +99,7 @@ You can forward a message, a recording or a file to your Instinct chat.
 
 ## Phone numbers
 
-A message that is only a phone number, with no text, is not a capture and not a request. Instinct reacts with the phone emoji and does not reply. The number stays tappable in WhatsApp, so you can tap it to call or message that person. This is for reaching people quickly, not for saving contacts.
+A message that is only a phone number, with no text, is not a capture. Instinct replies asking for the person's name (or says the name if it already knows it) and offers to save the number in Google Contacts. If you give the name, Instinct saves the contact. Either way the number stays tappable in WhatsApp, so you can tap it to call or message that person directly.
 
 ## Known limitations
 
