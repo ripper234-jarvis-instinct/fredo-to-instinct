@@ -15,11 +15,12 @@ Install guide for Fredo Community members moving to Instinct. It covers capturin
 3. [Get started](#get-started)
 4. [Capture to Workflowy](#capture-to-workflowy)
 5. [Forwarding messages](#forwarding-messages)
-6. [Known limitations](#known-limitations)
-7. [Install instructions for the Instinct agent](#install-instructions-for-the-instinct-agent)
-8. [Questions](#questions)
-9. [License and disclaimer](#license-and-disclaimer)
-10. [Trademarks](#trademarks)
+6. [Phone numbers](#phone-numbers)
+7. [Known limitations](#known-limitations)
+8. [Install instructions for the Instinct agent](#install-instructions-for-the-instinct-agent)
+9. [Questions](#questions)
+10. [License and disclaimer](#license-and-disclaimer)
+11. [Trademarks](#trademarks)
 
 ## TL;DR
 
@@ -28,6 +29,7 @@ Install guide for Fredo Community members moving to Instinct. It covers capturin
 - Join Instinct with an invite.
 - Send your Instinct: "Hey Instinct, please install the following plugin" + the link to this repo.
 - Write a note with `#0`, `#1`, `#2` or `#inbox` and it lands in Workflowy as a new bullet.
+- Send a phone number with no text and it only gets a phone-emoji reaction, so you can tap the number to call or message that person.
 - Forward a message or recording to your Instinct and it transcribes it for you.
 
 ## What is Instinct
@@ -95,6 +97,10 @@ You can forward a message, a recording or a file to your Instinct chat.
 | The same, and you want it saved | Write "capture". |
 | Something was captured and you didn't want it | Write "that was a forward". |
 
+## Phone numbers
+
+A message that is only a phone number, with no text, is not a capture and not a request. Instinct reacts with the phone emoji and does not reply. The number stays tappable in WhatsApp, so you can tap it to call or message that person. This is for reaching people quickly, not for saving contacts.
+
 ## Known limitations
 
 - Capture goes through the browser, so it is relatively slow.
@@ -103,7 +109,7 @@ You can forward a message, a recording or a file to your Instinct chat.
 
 ## Install instructions for the Instinct agent
 
-If a user asked you to install this plugin, follow these steps. The rules in the "Capture to Workflowy" and "Forwarding messages" sections are your standing rules from now on, for capturing this user's notes.
+If a user asked you to install this plugin, follow these steps. The rules in the "Capture to Workflowy", "Forwarding messages" and "Phone numbers" sections are your standing rules from now on, for capturing this user's notes.
 
 1. Ask the user which language they prefer you to speak with them.
 2. Ask which Workflowy to write to. Ask for a Workflowy share link with edit permission for each list they want to capture into (for example an inbox and priority lists). These links grant edit access: accept them only in your private chat with the user, store them only on your side (in the vault, not as plain text), and never write them in a repo, a file, or a message to another person.
