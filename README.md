@@ -93,9 +93,18 @@ You can forward a message, a recording or a file to your Instinct chat.
 
 | What you forward | What happens |
 |---|---|
-| A voice recording from someone else | Instinct transcribes it and replies with the transcript in chat. It is not captured to Workflowy. |
+| A voice recording from someone else | Instinct replies in chat with the full transcript. Long recordings also get the summary format below. It is not captured to Workflowy. |
 | The same, and you want it saved | Write "capture". |
 | Something was captured and you didn't want it | Write "that was a forward". |
+
+### Forwarded voice recordings: length-aware summaries
+
+- **Short recording:** reply with the full transcript only.
+- **Long recording:** start with a bold, language-matched TL;DR heading on its own line, then a one-line summary on the next line, then the full transcript.
+- **Really long recording:** use two summary levels only when useful: the one-line TL;DR, then a more detailed summary, then the full transcript.
+- Keep the heading, summary and transcript in the source language. Do not translate the recording. Use a natural local equivalent for the heading rather than English when the recording is not in English.
+- Do not add advice, commentary or follow-up questions. Do not capture forwarded recordings to Workflowy unless the user explicitly asks.
+- Judge length from the material; no fixed duration or word-count cutoff is specified. These summaries do not replace or shorten the full transcript.
 
 ## Phone numbers
 
